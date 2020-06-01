@@ -1,0 +1,8 @@
+# gatsby files
+.cache/
+.linaria-cache/
+public/
+node_modules/
+
+# Mac files
+.DS_Store
