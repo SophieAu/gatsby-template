@@ -6,9 +6,9 @@ This is a [Gatsby](https://www.gatsbyjs.org/) website template with sane default
 
 There are multiple ways to use this template:
 
-1) create a repo right in GitHub using the 'Use this template' button.
+1) Create a repo right in GitHub using the 'Use this template' button.
 
-2) download the repo as a '.zip' and work straight from there
+2) Download the repo as a '.zip' and work straight from there
 
 3) Use [degit](https://github.com/Rich-Harris/degit) which simplifies step 2.
 
