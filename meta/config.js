@@ -14,7 +14,7 @@ exports.manifestOptions = {
   name: `gatsby-template`,
   short_name: `gatsby-templ`,
   start_url: `/`,
-  background_color: `#FFFFF`,
+  background_color: `#FFFFFF`,
   theme_color: `#FFFFFF`,
   display: `minimal-ui`,
   icon: `favicon.png`, // This path is relative to the root of the site.
